@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  ubuntu:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: my_ubuntu_container
+    network_mode: "host"
