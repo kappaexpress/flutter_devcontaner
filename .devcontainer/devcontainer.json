@@ -9,5 +9,8 @@
                 "Dart-Code.flutter"
             ]
         }
+    },
+    "containerEnv": {
+        "SHELL": "/bin/bash"
     }
 }
