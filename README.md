@@ -1,6 +1,6 @@
 # 新規アプリ作成
 ```bash
-flutter create --project-name helloworld .
+flutter create --project-name helloworld --org com.hoge .
 ```
 
 # Androidのワイヤレスデバッグ
